@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(to right bottom, #e1f4ef, #aad0cd, #76dcd5);
+
+}
+.img-fluid {
+    max-width: 100%;
+    height:auto;
+}
+.d-block {
+    display: block!important;
+}
+.img-fluid {
+    max-width: 100%;
+    height:auto;
+}
+img {
+    vertical-align: middle;
+    border-style: none;
+    
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.center-image {
+    display: block;
+    margin: 0 auto;
+    height: 149px;
+    width: 146px;
+  }
+  .my-card:hover {
+    transform: scale(1.05); 
+    background-color: black; 
+    color: white;
+
+  }
